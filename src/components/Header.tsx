@@ -9,9 +9,9 @@ const Header = () => {
   const navLinks = [
     { to: "/", label: "Home" },
     { to: "/about", label: "About Us" },
-    { to: "/initiatives", label: "Initiatives" },
-    { to: "/impact", label: "Our Impact" },
-    { to: "/events", label: "Events" },
+    { to: "/team", label: "Our Team" },
+    { to: "/stories", label: "Impact Stories" },
+    { to: "/#events", label: "Events" },
     { to: "/contact", label: "Contact" },
   ];
 

@@ -8,6 +8,8 @@ import ImpactMetrics from "@/components/home/ImpactMetrics";
 import HowToHelpSection from "@/components/home/HowToHelpSection";
 import TestimonialsSection from "@/components/home/TestimonialsSection";
 import EventsSection from "@/components/home/EventsSection";
+import PartnersSection from "@/components/home/PartnersSection";
+import FAQSection from "@/components/home/FAQSection";
 import NewsletterSection from "@/components/home/NewsletterSection";
 
 const Index = () => {
@@ -23,6 +25,8 @@ const Index = () => {
         <HowToHelpSection />
         <TestimonialsSection />
         <EventsSection />
+        <PartnersSection />
+        <FAQSection />
         <NewsletterSection />
       </main>
       <Footer />
